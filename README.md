@@ -41,6 +41,22 @@
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Chemistry-Books/blob/master/nc(29).pdf" style="text-decoration:none;">Elementary Modes of Excitation in the Nucleus</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Chemistry-Books/blob/master/nc(30).pdf" style="text-decoration:none;">The cosmic radiation</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Chemistry-Books/blob/master/nc(31).pdf" style="text-decoration:none;">Research in nuclear magnetism  </a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Chemistry-Books/blob/master/nc(32).pdf" style="text-decoration:none;">Background for the Spheroidal Nuclear Model Proposal</a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Chemistry-Books/blob/master/nc(32).pdf" style="text-decoration:none;">Background for the Spheroidal Nuclear Model Proposal</a></b></li>
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Chemistry-Books/blob/master/nc(33).pdf" style="text-decoration:none;">The transuranium elements: present status</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Chemistry-Books/blob/master/nc(34).pdf" style="text-decoration:none;">The origins of the conceptions of isotopes</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Chemistry-Books/blob/master/nc(35).pdf" style="text-decoration:none;">Some thermodynamic properties of hydrogen and deuterium</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Chemistry-Books/blob/master/nc(36).pdf" style="text-decoration:none;">The artificial production of fast particles</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Chemistry-Books/blob/master/nc(37).pdf" style="text-decoration:none;">Events, Laws of Nature, and Invariance Principles  </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Chemistry-Books/blob/master/nc(38).pdf" style="text-decoration:none;">On the Cloud Method of Making Visible Ions and the Tracks of Ionizing Particles</a></b></li>
+   
+  
+  
+  
+  
+  
+  
+  
+  
   
  </ul>
