@@ -12,7 +12,7 @@
  </ul>
  </br>
  
-<h2> List of Nobel laureates in Nuclear Science: </h2>
+<h2> Nobel Lectures − Nuclear Science: </h2>
 
 <ul>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Chemistry-Books/blob/master/nc(6).pdf" style="text-decoration:none;">The production and properties of positrons</a></b></li>
