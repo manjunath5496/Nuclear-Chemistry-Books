@@ -50,13 +50,10 @@
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Chemistry-Books/blob/master/nc(37).pdf" style="text-decoration:none;">Events, Laws of Nature, and Invariance Principles  </a></b></li>                              
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Chemistry-Books/blob/master/nc(38).pdf" style="text-decoration:none;">On the Cloud Method of Making Visible Ions and the Tracks of Ionizing Particles</a></b></li>
    
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Chemistry-Books/blob/master/nc(39).pdf" style="text-decoration:none;">Radioimmunoassay: A Probe for Fine Structure of Biologic Systems</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Chemistry-Books/blob/master/nc(40).pdf" style="text-decoration:none;">Meson theory in its developments</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Chemistry-Books/blob/master/nc(41).pdf" style="text-decoration:none;">Discovery of Atmospheric Neutrino Oscillations  </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Chemistry-Books/blob/master/nc(42).pdf" style="text-decoration:none;">The Sudbury Neutrino Observatory: Observation of Flavor Change for Solar Neutrinos</a></b></li>  
   
-  
-  
-  
-  
-  
-  
-  
-  
+ 
  </ul>
