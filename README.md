@@ -1,3 +1,4 @@
+
 <h2> Books: </h2>
 
 <ul>
@@ -24,5 +25,14 @@
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Biology-Books/blob/master/mp(13).pdf" style="text-decoration:none;">The neutron and its properties</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Biology-Books/blob/master/mp(14).pdf" style="text-decoration:none;">Experiments on the interaction of high-speed nucleons with atomic nuclei  </a></b></li>                              
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Biology-Books/blob/master/mp(15).pdf" style="text-decoration:none;">A half-century with solar neutrinos</a></b></li>                                
- 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Biology-Books/blob/master/mp(16).pdf" style="text-decoration:none;">Artificial radioactivity produced by neutron bombardment</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Biology-Books/blob/master/mp(17).pdf" style="text-decoration:none;">Experimental and Theoretical Nuclear Astrophysics; The Quest for the Origin of the Elements </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Biology-Books/blob/master/mp(18).pdf" style="text-decoration:none;"> From the natural transmutations of uranium to its artificial fission</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Biology-Books/blob/master/mp(19).pdf" style="text-decoration:none;">Some applications of isotopic indicators  </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Biology-Books/blob/master/mp(20).pdf" style="text-decoration:none;">The electron-scattering method and its applications to the structure of nuclei and nucleons</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Biology-Books/blob/master/mp(21).pdf" style="text-decoration:none;">Glimpses at the history of the nuclear structure theory</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Biology-Books/blob/master/mp(22).pdf" style="text-decoration:none;">Chemical evidence of the transmutation of elements</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Biology-Books/blob/master/mp(23).pdf" style="text-decoration:none;">Birth of neutrino astrophysics</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Biology-Books/blob/master/mp(24).pdf" style="text-decoration:none;">The evolution of the cyclotron  </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Biology-Books/blob/master/mp(25).pdf" style="text-decoration:none;">Radiocarbon dating</a></b></li>   
  </ul>
