@@ -34,5 +34,13 @@
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Chemistry-Books/blob/master/nc(22).pdf" style="text-decoration:none;">Chemical evidence of the transmutation of elements</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Chemistry-Books/blob/master/nc(23).pdf" style="text-decoration:none;">Birth of neutrino astrophysics</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Chemistry-Books/blob/master/nc(24).pdf" style="text-decoration:none;">The evolution of the cyclotron  </a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Chemistry-Books/blob/master/nc(25).pdf" style="text-decoration:none;">Radiocarbon dating</a></b></li>   
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Chemistry-Books/blob/master/nc(25).pdf" style="text-decoration:none;">Radiocarbon dating</a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Chemistry-Books/blob/master/nc(26).pdf" style="text-decoration:none;">The Shell Model</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Chemistry-Books/blob/master/nc(27).pdf" style="text-decoration:none;">The transuranium elements: early history</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Chemistry-Books/blob/master/nc(28).pdf" style="text-decoration:none;">Recoilless Nuclear Resonance Absorption of Gamma Radiation</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Chemistry-Books/blob/master/nc(29).pdf" style="text-decoration:none;">Elementary Modes of Excitation in the Nucleus</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Chemistry-Books/blob/master/nc(30).pdf" style="text-decoration:none;">The cosmic radiation</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Chemistry-Books/blob/master/nc(31).pdf" style="text-decoration:none;">Research in nuclear magnetism  </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Chemistry-Books/blob/master/nc(32).pdf" style="text-decoration:none;">Background for the Spheroidal Nuclear Model Proposal</a></b></li>  
+  
  </ul>
